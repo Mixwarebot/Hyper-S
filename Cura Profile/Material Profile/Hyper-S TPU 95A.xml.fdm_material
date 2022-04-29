@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material">
+  <metadata>
+    <name>
+      <brand>Hyper-S</brand>
+      <material>TPU 95A</material>
+      <color>Generic</color>
+      <label>TPU 95A</label>
+    </name>
+    <version>11</version>
+    <color_code>#B22744</color_code>
+    <definition>fdmprinter</definition>
+    <adhesion_info>Use glue.</adhesion_info>
+    <description>Wear and tear resistant. TPU features a Shore-A hardness of 95 and an elongation of up to 580% at break. Suitable for applications that require slight flexibility, wear and tear, and chemical resistance.</description>
+    <GUID>19baa6a9-94ff-478b-b4a1-8157b74358d2</GUID>
+    <compatible>True</compatible>
+  </metadata>
+  <properties>
+    <density>1.22</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="surface energy">100</setting>
+    <setting key="print temperature">210</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="standby temperature">175</setting>
+  </settings>
+</fdmmaterial>

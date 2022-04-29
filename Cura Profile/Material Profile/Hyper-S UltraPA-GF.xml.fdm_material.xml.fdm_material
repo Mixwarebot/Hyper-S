@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material">
+  <metadata>
+    <name>
+      <brand>Hyper-S</brand>
+      <material>UltraPA-GF</material>
+      <color>Generic</color>
+      <label>UltraPA-GF</label>
+    </name>
+    <version>15</version>
+    <color_code>#D5D8DC</color_code>
+    <definition>fdmprinter</definition>
+    <adhesion_info>Use glue.</adhesion_info>
+    <description>This is the baseline profile for Glass Fiber Filled Polyamides for the Print Profile Assistant.</description>
+    <GUID>837cf11b-6b1e-48dc-94dc-4a2b4888648e</GUID>
+    <compatible>True</compatible>
+  </metadata>
+  <properties>
+    <density>1.35</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="heated bed temperature">75</setting>
+    <setting key="print cooling">0.0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="print temperature">300</setting>
+    <setting key="adhesion tendency">2</setting>
+    <setting key="standby temperature">175</setting>
+  </settings>
+</fdmmaterial>
