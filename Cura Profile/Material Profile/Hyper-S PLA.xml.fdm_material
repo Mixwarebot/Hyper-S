@@ -20,7 +20,7 @@
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="heated bed temperature">50</setting>
+    <setting key="heated bed temperature">60</setting>
     <setting key="print cooling">100.0</setting>
     <setting key="print temperature">200</setting>
     <setting key="retraction speed">40</setting>
